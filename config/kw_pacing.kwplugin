@@ -1,0 +1,8 @@
+# Restart after changing enabled (0 or 1).
+id=pacing
+library=kw_pacing.dll
+abi=1
+enabled=1
+roles=any
+requires=
+after=
