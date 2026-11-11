@@ -1,5 +1,9 @@
 # kw_plugin_pacing
 
+Licensed under **GPLv3**, with a game interoperability permission. See
+[LICENSING.md](LICENSING.md) for scope, source-distribution obligations and
+[third-party notices](THIRD_PARTY_NOTICES.md).
+
 Universal native-wait Sleep(1) and timer policy for human and bot processes.
 
 ## Layout and build

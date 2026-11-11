@@ -1,0 +1,24 @@
+Kane's Wrath game interoperability permission, version 1.0
+
+Additional permission under GNU GPL version 3, section 7.
+
+For the material to which this permission is applied, its copyright holders
+permit you to link or combine that material with Command & Conquer 3: Kane's
+Wrath, modified versions of that game, and the proprietary game libraries and
+assets needed to run it, and to convey the resulting combination. You may
+exercise this permission without extending the GNU GPL to those game
+components solely because of that linking or combination.
+
+The GNU GPL continues to apply to all covered project code, including your
+modifications. When conveying a combination, provide Corresponding Source
+for the covered code as required by the GNU GPL. This permission does not
+require you to provide source for the proprietary game components.
+
+This permission grants no right to copy, distribute or modify the game or
+any other third-party component. Obtain those rights separately. It does
+not permit incorporating covered project implementation into an otherwise
+proprietary plugin or program, and does not override another copyright
+holder's license. Any further permission must come from the relevant holder.
+
+You may extend this permission to your modifications, but are not obliged
+to do so. You may remove it as permitted by GNU GPL version 3, section 7.

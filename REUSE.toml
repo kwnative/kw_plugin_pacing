@@ -1,0 +1,17 @@
+version = 1
+
+# Project code is GPL-3.0-only with the explicit permissions in LICENSING.md.
+# Third-party notices and licenses retain their original terms.
+[[annotations]]
+path = [".clang-format", ".gitignore", "Makefile", "README.md", "LICENSING.md", "REUSE.toml", "THIRD_PARTY_NOTICES.md",
+        "src/**", "include/**", "mk/**", "tests/**", "tools/**", "config/**", "examples/**", "docs/**", "plugin_example/**",
+        "licenses/GAME_EXCEPTION.txt", "licenses/PLUGIN_EXCEPTION.txt"]
+precedence = "closest"
+SPDX-FileCopyrightText = "2026 N.Leiten"
+SPDX-License-Identifier = "LicenseRef-KW-Game-Plugin"
+
+[[annotations]]
+path = ["licenses/MIT-SDK.txt"]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 N.Leiten"
+SPDX-License-Identifier = "MIT"
