@@ -1,3 +1,6 @@
+/* SPDX-FileCopyrightText: 2026 N.Leiten
+ * SPDX-License-Identifier: LicenseRef-KW-Game-Plugin
+ */
 #ifndef KWPACING_POLICY_H
 #define KWPACING_POLICY_H
 #include <stdint.h>

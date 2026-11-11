@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2026 N.Leiten
+# SPDX-License-Identifier: LicenseRef-KW-Game-Plugin
 REPO_ROOT := $(patsubst %/,%,$(dir $(abspath $(lastword $(MAKEFILE_LIST)))))
 KWMOD_SDK_ROOT ?= $(abspath $(REPO_ROOT)/../kw_modloader)
 include $(KWMOD_SDK_ROOT)/mk/plugin.mk

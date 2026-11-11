@@ -1,3 +1,6 @@
+/* SPDX-FileCopyrightText: 2026 N.Leiten
+ * SPDX-License-Identifier: LicenseRef-KW-Game-Plugin
+ */
 /* One process-local native wait owner for rendered and managed bot instances.
  * Only zero-duration waits are changed; simulation clocks are untouched. */
 #define WIN32_LEAN_AND_MEAN
