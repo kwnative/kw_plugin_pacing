@@ -5,13 +5,13 @@ version = 1
 [[annotations]]
 path = [".clang-format", ".gitignore", "Makefile", "README.md", "LICENSING.md", "REUSE.toml", "THIRD_PARTY_NOTICES.md",
         "src/**", "include/**", "mk/**", "tests/**", "tools/**", "config/**", "examples/**", "docs/**", "plugin_example/**",
-        "licenses/GAME_EXCEPTION.txt", "licenses/PLUGIN_EXCEPTION.txt"]
+        "notices/GAME_EXCEPTION.txt", "notices/PLUGIN_EXCEPTION.txt"]
 precedence = "closest"
 SPDX-FileCopyrightText = "2026 N.Leiten"
 SPDX-License-Identifier = "LicenseRef-KW-Game-Plugin"
 
 [[annotations]]
-path = ["licenses/MIT-SDK.txt"]
+path = ["notices/MIT-SDK.txt"]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 N.Leiten"
 SPDX-License-Identifier = "MIT"

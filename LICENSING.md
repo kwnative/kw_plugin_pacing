@@ -4,7 +4,7 @@ Copyright (c) 2026 N.Leiten, for original project contributions and modification
 
 This plugin's original code, headers, build scripts, tests, configurations and
 documentation are licensed under **GNU GPL version 3 only**; see [LICENSE](LICENSE).
-The additional [game interoperability permission](licenses/GAME_EXCEPTION.txt)
+The additional [game interoperability permission](notices/GAME_EXCEPTION.txt)
 permits combination with the proprietary game without relicensing the game.
 It does not make this plugin permissively licensed.
 
